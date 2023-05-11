@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazarbb&label=Profile%20views&color=0e75b6&style=flat" alt="lazarbb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lazarbb" alt="lazarbb" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://contentstatic.techgig.com/photo/86001236/coding-for-students-learn-with-these-7-apps.jpg?10556">
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **lazarv79@gmail.com**
